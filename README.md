@@ -1,4 +1,7 @@
 # Getting Started
+This repository is part of a tutorial. You can find the tutorial here.
+
+## 🎉[Tutorial link](https://blog.developerdao.com/how-to-build-an-nft-market-dashboard-using-quicknodes-graphql-nft-api)🎉
 
 ## Requirements
 
